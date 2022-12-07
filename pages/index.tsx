@@ -8,7 +8,6 @@ const Home: NextPage = () => {
         <title>Airbnb</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <Header/>
     </div>
   )
